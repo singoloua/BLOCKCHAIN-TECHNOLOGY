@@ -1,0 +1,22 @@
+1. eternal
+2.faint
+3.play
+4.trim
+5.grab
+6.trade
+7.disease
+8.supply
+9.blast
+10.apart
+11.observe
+12.else
+
+for getting ether to test the code :
+email: singoloua@icloud.com
+password: Acquet12.
+
+Https Key: https://eth-goerli.g.alchemy.com/v2/wsjXIsuaytTcv6sfynRGrqPMAy0j2S8-
+
+private Metamask: 58c9a4e2890b3728f9e1f248863b34e70b63f5529b8b520e0886b836f401b9ff
+
+Transactions deployed to:  0x6019d6eE0e3Fc81f19aB77743076ba9424910250
